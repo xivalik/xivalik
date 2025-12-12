@@ -1,1 +1,1 @@
-<img src="https://github.com/xivalik/welcome/blob/main/welcome.gif" width="750" />
+<img src="https://github.com/xivalik/welcome/blob/main/welcome.gif" width="1000" />

@@ -1,3 +1,3 @@
 Hi there 👋
 
-<img src="welcome.mp4" width="250" />
+<img src="welcome.gif" width="250" />
